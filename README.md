@@ -1,2 +1,3 @@
-# waistline
-waistline for health
+waistline
+waistcircumference measurement for health
+c++ program
